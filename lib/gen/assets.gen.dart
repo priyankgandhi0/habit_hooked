@@ -13,8 +13,20 @@ class $AssetsIconsGen {
   /// File path: assets/icons/Burger.svg
   String get burger => 'assets/icons/Burger.svg';
 
+  /// File path: assets/icons/edit.svg
+  String get edit => 'assets/icons/edit.svg';
+
+  /// File path: assets/icons/filter.svg
+  String get filter => 'assets/icons/filter.svg';
+
+  /// File path: assets/icons/moon.svg
+  String get moon => 'assets/icons/moon.svg';
+
+  /// File path: assets/icons/order.svg
+  String get order => 'assets/icons/order.svg';
+
   /// List of all assets
-  List<String> get values => [burger];
+  List<String> get values => [burger, edit, filter, moon, order];
 }
 
 class Assets {
