@@ -476,24 +476,6 @@
       "languageVersion": "2.18"
     },
     {
-      "name": "syncfusion_flutter_calendar",
-      "rootUri": "file:///Users/imac/.pub-cache/hosted/pub.dev/syncfusion_flutter_calendar-24.2.4",
-      "packageUri": "lib/",
-      "languageVersion": "2.17"
-    },
-    {
-      "name": "syncfusion_flutter_core",
-      "rootUri": "file:///Users/imac/.pub-cache/hosted/pub.dev/syncfusion_flutter_core-24.2.4",
-      "packageUri": "lib/",
-      "languageVersion": "2.17"
-    },
-    {
-      "name": "syncfusion_flutter_datepicker",
-      "rootUri": "file:///Users/imac/.pub-cache/hosted/pub.dev/syncfusion_flutter_datepicker-24.2.4",
-      "packageUri": "lib/",
-      "languageVersion": "2.17"
-    },
-    {
       "name": "table_calendar",
       "rootUri": "file:///Users/imac/.pub-cache/hosted/pub.dev/table_calendar-3.1.0",
       "packageUri": "lib/",
@@ -514,12 +496,6 @@
     {
       "name": "time",
       "rootUri": "file:///Users/imac/.pub-cache/hosted/pub.dev/time-2.1.4",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
-      "name": "timezone",
-      "rootUri": "file:///Users/imac/.pub-cache/hosted/pub.dev/timezone-0.9.2",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -608,7 +584,7 @@
       "languageVersion": "3.2"
     }
   ],
-  "generated": "2024-02-12T11:09:09.053002Z",
+  "generated": "2024-02-13T10:12:06.805081Z",
   "generator": "pub",
   "generatorVersion": "3.2.5"
 }

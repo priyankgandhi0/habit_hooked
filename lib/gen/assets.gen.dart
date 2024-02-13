@@ -19,6 +19,9 @@ class $AssetsIconsGen {
   /// File path: assets/icons/filter.svg
   String get filter => 'assets/icons/filter.svg';
 
+  /// File path: assets/icons/journal.svg
+  String get journal => 'assets/icons/journal.svg';
+
   /// File path: assets/icons/moon.svg
   String get moon => 'assets/icons/moon.svg';
 
@@ -26,7 +29,7 @@ class $AssetsIconsGen {
   String get order => 'assets/icons/order.svg';
 
   /// List of all assets
-  List<String> get values => [burger, edit, filter, moon, order];
+  List<String> get values => [burger, edit, filter, journal, moon, order];
 }
 
 class Assets {
